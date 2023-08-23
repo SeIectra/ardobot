@@ -71,7 +71,5 @@ Bu hatanın nedeni: Bir gün içerisinde 1000 defa botunuz tokene bağlantı kur
 `Arda iyi Kullanımlar Diler!`
 
 
-emirhan saraç discord bot altyapı
-discord hazır bot komutları
-discord uptime bot altyapı
+e
 
