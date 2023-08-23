@@ -2,27 +2,6 @@ Bot Altyapı Projesine Hoşgeldin!
 =================
 Merhaba Arkadaşlar Bu Altyapı 2018 Yılında Yapılmış 5 Ekim 2022 Tarihinde İse Gerekli Düzeltmeleri Yapılmıştır. Bu Altyapı Discord.js v14 Sürümünü Artık Desteklemektedir! Kolaylıkla Kullanabilirsiniz!
 
-[Resmi Discord Sunucumuz](https://discord.gg/T2jXbtBjwj)
-
-[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg?view_as=subscriber)
-
-[Resmi İnstagram Hesabımız](https://www.instagram.com/emirhansarac06/)
-
-Diğer Altyapılar!
-=================
-[Müzik Bot Altyapısı](https://youtu.be/V4qOOnSPfwA)
-
-[Ayarlanabilen Emoji ile Rol Verme Altyapısı](https://www.youtube.com/watch?v=AjNbw0wODH8)
-
-[Kayıt Botu Altyapısı](https://www.youtube.com/watch?v=55_OEZ73yd4)
-
-[Davet Botu Altyapısı](https://www.youtube.com/watch?v=drlPG8kgNdQ)
-
-[Captcha Botu Altyapısı](https://www.youtube.com/watch?v=DWxjCc6BuDA)
-
-[Slash Bot Altyapısı](https://www.youtube.com/watch?v=UZABvGw-oww)
-
-[Yönetim Panelli Bot Altyapısı](https://www.youtube.com/watch?v=HMT1UhQXQbA)
 
 Basit Hatalar ve Çözümleri!
 =================
@@ -89,43 +68,9 @@ Bu hatanın nedeni: Bir gün içerisinde 1000 defa botunuz tokene bağlantı kur
 Çözümü: 1-2 gün civarı bu böyle devam edebilir. İP Ban yemiş projeyi bulmanız gerek bu projeyi bulduğunuzda remixleyin hatanız düzelir.
  
 
-`İyi Kullanımlar!`
+`Arda iyi Kullanımlar Diler!`
 
-Etiketler: discord bot altyapı glitch
-discord bot altyapı github
-discord bot altyapı
-discord bot altyapı v14
-discord bot altyapı v13
-discord bot altyapı v12
-discord bot altyapısı glitch
-discord bot altyapı 2022
-discord bot altyapı 2023
-discord bot altyapı visual studio code
-discord bot altyapı nasıl yapılır
-discord altyapı
-discord ban bot altyapı
-bot altyapı
-discord destek bot altyapı
-discord bot altyapısı github
-discord eğlence bot altyapı
-discord müzik bot altyapı glitch
-discord guard bot altyapı
-discord gif bot altyapı
-discord groovy bot altyapı
-discord nitro generator bot altyapı
-discord bot hazır altyapı
-discord bot hazır altyapı glitch
-discord bot yapma hazır altyapı
-discord bot altyapı indir
-discord invite bot altyapı
-discord.js bot altyapı
-discord kayıt bot altyapı
-discord bot list altyapı
-discord müzik bot altyapı
-discord moderasyon bot altyapı
-discord public bot altyapı
-discord register bot altyapı
-discord stat bot altyapı
+
 emirhan saraç discord bot altyapı
 discord hazır bot komutları
 discord uptime bot altyapı
