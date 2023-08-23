@@ -69,7 +69,3 @@ Bu hatanın nedeni: Bir gün içerisinde 1000 defa botunuz tokene bağlantı kur
  
 
 `Arda iyi Kullanımlar Diler!`
-
-
-e
-
